@@ -24,6 +24,15 @@
   color: white;
 }
 
+.App-footer {
+  background-color: #282c34;
+  color: yellow;
+  min-height: 10vh;
+  justify-content: center;
+  flex-direction: column;
+  display: flex;
+}
+
 .App-link {
   color: #61dafb;
 }
